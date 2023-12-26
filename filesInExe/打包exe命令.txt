@@ -1,0 +1,1 @@
+pyinstaller -D -p D:\Python\Python39\Lib test.py

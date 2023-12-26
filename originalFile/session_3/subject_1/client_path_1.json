@@ -1,0 +1,4100 @@
+{
+  "place_points": [
+    {
+      "place_id": 1,
+      "place_type": 2,
+      "place_point": {
+        "longitude": 105.65040044714881,
+        "latitude": 38.765516237976584
+      },
+      "place_radius": 1000.0
+    },
+    {
+      "place_id": 2,
+      "place_type": 3,
+      "place_point": {
+        "longitude": 105.56319522538978,
+        "latitude": 38.777733310701727
+      },
+      "place_radius": 1000.0
+    },
+    {
+      "place_id": 3,
+      "place_type": 1,
+      "place_point": {
+        "longitude": 105.64070649976669,
+        "latitude": 38.829245699325973
+      },
+      "place_radius": 1000.0
+    }
+  ],
+  "people": [
+    {
+      "people_id": 1,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57606749225648,
+        "latitude": 38.7328191811633
+      }
+    },
+    {
+      "people_id": 2,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.5873949538617,
+        "latitude": 38.730303562304833
+      }
+    },
+    {
+      "people_id": 3,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60922106279892,
+        "latitude": 38.760070974714537
+      }
+    },
+    {
+      "people_id": 4,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59303392412875,
+        "latitude": 38.733353836255588
+      }
+    },
+    {
+      "people_id": 5,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57218418514209,
+        "latitude": 38.716525998713919
+      }
+    },
+    {
+      "people_id": 6,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.5891826069529,
+        "latitude": 38.723524778994388
+      }
+    },
+    {
+      "people_id": 7,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59022715766392,
+        "latitude": 38.733212954647037
+      }
+    },
+    {
+      "people_id": 8,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61559790019685,
+        "latitude": 38.706031415696636
+      }
+    },
+    {
+      "people_id": 9,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60101438976592,
+        "latitude": 38.75100971686598
+      }
+    },
+    {
+      "people_id": 10,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.609829651173,
+        "latitude": 38.742571729444677
+      }
+    },
+    {
+      "people_id": 11,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.6210061157378,
+        "latitude": 38.727871077769237
+      }
+    },
+    {
+      "people_id": 12,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62282321987036,
+        "latitude": 38.741413324147224
+      }
+    },
+    {
+      "people_id": 13,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59573496711975,
+        "latitude": 38.752643726939795
+      }
+    },
+    {
+      "people_id": 14,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60962046188057,
+        "latitude": 38.737824219191211
+      }
+    },
+    {
+      "people_id": 15,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59059038337446,
+        "latitude": 38.724894650056953
+      }
+    },
+    {
+      "people_id": 16,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62486721090013,
+        "latitude": 38.720655107105671
+      }
+    },
+    {
+      "people_id": 17,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59876410969339,
+        "latitude": 38.730111437117436
+      }
+    },
+    {
+      "people_id": 18,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58627536759927,
+        "latitude": 38.712280968059311
+      }
+    },
+    {
+      "people_id": 19,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.63856123424755,
+        "latitude": 38.743828244031882
+      }
+    },
+    {
+      "people_id": 20,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.63755595775697,
+        "latitude": 38.7367985690379
+      }
+    },
+    {
+      "people_id": 21,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62018237673048,
+        "latitude": 38.72488691755224
+      }
+    },
+    {
+      "people_id": 22,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62486195350446,
+        "latitude": 38.749160528158036
+      }
+    },
+    {
+      "people_id": 23,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57917057150334,
+        "latitude": 38.742991546118645
+      }
+    },
+    {
+      "people_id": 24,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60380564303432,
+        "latitude": 38.732895179273875
+      }
+    },
+    {
+      "people_id": 25,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61252241681238,
+        "latitude": 38.737437904588305
+      }
+    },
+    {
+      "people_id": 26,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58920200627757,
+        "latitude": 38.723138094214171
+      }
+    },
+    {
+      "people_id": 27,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59940196525889,
+        "latitude": 38.728762939492384
+      }
+    },
+    {
+      "people_id": 28,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57414934594222,
+        "latitude": 38.748932473981725
+      }
+    },
+    {
+      "people_id": 29,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62973094120157,
+        "latitude": 38.723525210845388
+      }
+    },
+    {
+      "people_id": 30,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60942434618273,
+        "latitude": 38.752675918072946
+      }
+    },
+    {
+      "people_id": 31,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59297731176763,
+        "latitude": 38.742453054411833
+      }
+    },
+    {
+      "people_id": 32,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.56810484046878,
+        "latitude": 38.7248332770332
+      }
+    },
+    {
+      "people_id": 33,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61889401160954,
+        "latitude": 38.742956218355516
+      }
+    },
+    {
+      "people_id": 34,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61757554089945,
+        "latitude": 38.710788656953191
+      }
+    },
+    {
+      "people_id": 35,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57874435218262,
+        "latitude": 38.740108954566033
+      }
+    },
+    {
+      "people_id": 36,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60184181707913,
+        "latitude": 38.708417292651049
+      }
+    },
+    {
+      "people_id": 37,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62759774820863,
+        "latitude": 38.747069782265505
+      }
+    },
+    {
+      "people_id": 38,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63479131596905,
+        "latitude": 38.725373498020431
+      }
+    },
+    {
+      "people_id": 39,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62952509124185,
+        "latitude": 38.736516884923674
+      }
+    },
+    {
+      "people_id": 40,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57917406423311,
+        "latitude": 38.731391102908049
+      }
+    },
+    {
+      "people_id": 41,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.63066825734626,
+        "latitude": 38.723112552176694
+      }
+    },
+    {
+      "people_id": 42,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.6095947737151,
+        "latitude": 38.706284374501692
+      }
+    },
+    {
+      "people_id": 43,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60966099123623,
+        "latitude": 38.710783215203904
+      }
+    },
+    {
+      "people_id": 44,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60715584484936,
+        "latitude": 38.750369727802592
+      }
+    },
+    {
+      "people_id": 45,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.56987936763331,
+        "latitude": 38.726432253895354
+      }
+    },
+    {
+      "people_id": 46,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.63914551008625,
+        "latitude": 38.725289307259743
+      }
+    },
+    {
+      "people_id": 47,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60948945772198,
+        "latitude": 38.748437453977921
+      }
+    },
+    {
+      "people_id": 48,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.602240243884,
+        "latitude": 38.726061194535326
+      }
+    },
+    {
+      "people_id": 49,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.62204863916986,
+        "latitude": 38.721872341728378
+      }
+    },
+    {
+      "people_id": 50,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58324282604572,
+        "latitude": 38.713011464353983
+      }
+    },
+    {
+      "people_id": 51,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60332787598662,
+        "latitude": 38.7383171101973
+      }
+    },
+    {
+      "people_id": 52,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.56913316901969,
+        "latitude": 38.7241973432443
+      }
+    },
+    {
+      "people_id": 53,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60058978812998,
+        "latitude": 38.739896372450339
+      }
+    },
+    {
+      "people_id": 54,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57271049168334,
+        "latitude": 38.715748627135824
+      }
+    },
+    {
+      "people_id": 55,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58138660970123,
+        "latitude": 38.754395166358073
+      }
+    },
+    {
+      "people_id": 56,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60910162033656,
+        "latitude": 38.760151280513405
+      }
+    },
+    {
+      "people_id": 57,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59291708851956,
+        "latitude": 38.734436079264334
+      }
+    },
+    {
+      "people_id": 58,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61419540593319,
+        "latitude": 38.70693116023147
+      }
+    },
+    {
+      "people_id": 59,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61339112881851,
+        "latitude": 38.756233923416211
+      }
+    },
+    {
+      "people_id": 60,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.62948518654679,
+        "latitude": 38.753367687047273
+      }
+    },
+    {
+      "people_id": 61,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60428853114693,
+        "latitude": 38.714291395032909
+      }
+    },
+    {
+      "people_id": 62,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61822179087616,
+        "latitude": 38.7436304781291
+      }
+    },
+    {
+      "people_id": 63,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57688684270543,
+        "latitude": 38.754950423928285
+      }
+    },
+    {
+      "people_id": 64,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59851926844956,
+        "latitude": 38.726446762987145
+      }
+    },
+    {
+      "people_id": 65,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62629819780584,
+        "latitude": 38.7249643296197
+      }
+    },
+    {
+      "people_id": 66,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61720620676516,
+        "latitude": 38.726788679722617
+      }
+    },
+    {
+      "people_id": 67,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61364854020879,
+        "latitude": 38.747011229817964
+      }
+    },
+    {
+      "people_id": 68,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62652643373518,
+        "latitude": 38.7534277441928
+      }
+    },
+    {
+      "people_id": 69,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.6052650528306,
+        "latitude": 38.749958455495758
+      }
+    },
+    {
+      "people_id": 70,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60059681326808,
+        "latitude": 38.706515739409269
+      }
+    },
+    {
+      "people_id": 71,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58222785790605,
+        "latitude": 38.739280101313255
+      }
+    },
+    {
+      "people_id": 72,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61137391159824,
+        "latitude": 38.718519348851764
+      }
+    },
+    {
+      "people_id": 73,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60854102834097,
+        "latitude": 38.740521651116744
+      }
+    },
+    {
+      "people_id": 74,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62300939118073,
+        "latitude": 38.748703866892434
+      }
+    },
+    {
+      "people_id": 75,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58690898033791,
+        "latitude": 38.746935323820011
+      }
+    },
+    {
+      "people_id": 76,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58748361158172,
+        "latitude": 38.746275211944507
+      }
+    },
+    {
+      "people_id": 77,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.63390523456074,
+        "latitude": 38.722970185309393
+      }
+    },
+    {
+      "people_id": 78,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59724644750544,
+        "latitude": 38.709728454711268
+      }
+    },
+    {
+      "people_id": 79,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61057337578926,
+        "latitude": 38.714629446579174
+      }
+    },
+    {
+      "people_id": 80,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62851119586722,
+        "latitude": 38.743817883788658
+      }
+    },
+    {
+      "people_id": 81,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61873131097263,
+        "latitude": 38.73230372764251
+      }
+    },
+    {
+      "people_id": 82,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63706156786681,
+        "latitude": 38.744791157854188
+      }
+    },
+    {
+      "people_id": 83,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59355762749496,
+        "latitude": 38.75923751724202
+      }
+    },
+    {
+      "people_id": 84,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58529180452426,
+        "latitude": 38.74713084637672
+      }
+    },
+    {
+      "people_id": 85,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.56842171796143,
+        "latitude": 38.745920829757758
+      }
+    },
+    {
+      "people_id": 86,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60607997101205,
+        "latitude": 38.740136348958551
+      }
+    },
+    {
+      "people_id": 87,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59281669456469,
+        "latitude": 38.759517610547249
+      }
+    },
+    {
+      "people_id": 88,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58873192546895,
+        "latitude": 38.733665110705168
+      }
+    },
+    {
+      "people_id": 89,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60857359783795,
+        "latitude": 38.758678396080761
+      }
+    },
+    {
+      "people_id": 90,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.5819286050105,
+        "latitude": 38.712556312633907
+      }
+    },
+    {
+      "people_id": 91,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58974862730751,
+        "latitude": 38.75457917315812
+      }
+    },
+    {
+      "people_id": 92,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61624201377757,
+        "latitude": 38.75732476516648
+      }
+    },
+    {
+      "people_id": 93,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.6186209046095,
+        "latitude": 38.741154279664734
+      }
+    },
+    {
+      "people_id": 94,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.6113876886875,
+        "latitude": 38.713762647980239
+      }
+    },
+    {
+      "people_id": 95,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.63301546491344,
+        "latitude": 38.722139508668043
+      }
+    },
+    {
+      "people_id": 96,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59855630864402,
+        "latitude": 38.761544086209817
+      }
+    },
+    {
+      "people_id": 97,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57142822107789,
+        "latitude": 38.735553410712306
+      }
+    },
+    {
+      "people_id": 98,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61663389538741,
+        "latitude": 38.756488107168984
+      }
+    },
+    {
+      "people_id": 99,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60251430798836,
+        "latitude": 38.753377594059081
+      }
+    },
+    {
+      "people_id": 100,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58925493744633,
+        "latitude": 38.708839220717728
+      }
+    },
+    {
+      "people_id": 101,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60865145716581,
+        "latitude": 38.720650963271545
+      }
+    },
+    {
+      "people_id": 102,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60034394440184,
+        "latitude": 38.723265650126621
+      }
+    },
+    {
+      "people_id": 103,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60536740111057,
+        "latitude": 38.759831860816711
+      }
+    },
+    {
+      "people_id": 104,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.62225438907176,
+        "latitude": 38.73127015233753
+      }
+    },
+    {
+      "people_id": 105,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.5669740605484,
+        "latitude": 38.74338596616942
+      }
+    },
+    {
+      "people_id": 106,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61409603657039,
+        "latitude": 38.747129159562967
+      }
+    },
+    {
+      "people_id": 107,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59921772214155,
+        "latitude": 38.715914532874706
+      }
+    },
+    {
+      "people_id": 108,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59393014371881,
+        "latitude": 38.762130542410517
+      }
+    },
+    {
+      "people_id": 109,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60940977376534,
+        "latitude": 38.755016517659037
+      }
+    },
+    {
+      "people_id": 110,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57730877758074,
+        "latitude": 38.719311655157831
+      }
+    },
+    {
+      "people_id": 111,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59249727790898,
+        "latitude": 38.72845658172929
+      }
+    },
+    {
+      "people_id": 112,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.63477176126986,
+        "latitude": 38.724975925052604
+      }
+    },
+    {
+      "people_id": 113,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60090517925457,
+        "latitude": 38.713611755087335
+      }
+    },
+    {
+      "people_id": 114,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.6019000561902,
+        "latitude": 38.732593535956731
+      }
+    },
+    {
+      "people_id": 115,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62183871761356,
+        "latitude": 38.732648942853551
+      }
+    },
+    {
+      "people_id": 116,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58032318997178,
+        "latitude": 38.752715613508279
+      }
+    },
+    {
+      "people_id": 117,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57825501320634,
+        "latitude": 38.739872870808426
+      }
+    },
+    {
+      "people_id": 118,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58789213313092,
+        "latitude": 38.735142625146459
+      }
+    },
+    {
+      "people_id": 119,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.64054152399611,
+        "latitude": 38.736840243110748
+      }
+    },
+    {
+      "people_id": 120,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61852505818206,
+        "latitude": 38.754359297106653
+      }
+    },
+    {
+      "people_id": 121,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59966556769734,
+        "latitude": 38.713140068387581
+      }
+    },
+    {
+      "people_id": 122,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61687909421092,
+        "latitude": 38.742017108631089
+      }
+    },
+    {
+      "people_id": 123,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59980931080743,
+        "latitude": 38.753343636213643
+      }
+    },
+    {
+      "people_id": 124,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58762170461607,
+        "latitude": 38.731949019332085
+      }
+    },
+    {
+      "people_id": 125,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61454941494563,
+        "latitude": 38.721006917307491
+      }
+    },
+    {
+      "people_id": 126,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57199372968346,
+        "latitude": 38.725606881606183
+      }
+    },
+    {
+      "people_id": 127,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.63444732660216,
+        "latitude": 38.740420300539832
+      }
+    },
+    {
+      "people_id": 128,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.56967236191862,
+        "latitude": 38.728335299516559
+      }
+    },
+    {
+      "people_id": 129,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61033456805293,
+        "latitude": 38.720780770037095
+      }
+    },
+    {
+      "people_id": 130,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59119324858398,
+        "latitude": 38.734704818901925
+      }
+    },
+    {
+      "people_id": 131,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60589096924572,
+        "latitude": 38.716646452188506
+      }
+    },
+    {
+      "people_id": 132,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57462143827021,
+        "latitude": 38.730547528225571
+      }
+    },
+    {
+      "people_id": 133,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.5889905908839,
+        "latitude": 38.7260272001018
+      }
+    },
+    {
+      "people_id": 134,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59746835079653,
+        "latitude": 38.749241585315815
+      }
+    },
+    {
+      "people_id": 135,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61707074236669,
+        "latitude": 38.730990404554049
+      }
+    },
+    {
+      "people_id": 136,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63333044384819,
+        "latitude": 38.734478703490659
+      }
+    },
+    {
+      "people_id": 137,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58494383905074,
+        "latitude": 38.739000452338828
+      }
+    },
+    {
+      "people_id": 138,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61320906316389,
+        "latitude": 38.761854306348134
+      }
+    },
+    {
+      "people_id": 139,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58370044996967,
+        "latitude": 38.709200425673806
+      }
+    },
+    {
+      "people_id": 140,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.605074942325,
+        "latitude": 38.756021560293995
+      }
+    },
+    {
+      "people_id": 141,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57738995510465,
+        "latitude": 38.714739843501363
+      }
+    },
+    {
+      "people_id": 142,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60368421819892,
+        "latitude": 38.730915871992714
+      }
+    },
+    {
+      "people_id": 143,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61534514124619,
+        "latitude": 38.721810755301441
+      }
+    },
+    {
+      "people_id": 144,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58049568934834,
+        "latitude": 38.724448689873505
+      }
+    },
+    {
+      "people_id": 145,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.63032031632662,
+        "latitude": 38.7507329722825
+      }
+    },
+    {
+      "people_id": 146,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60854604325711,
+        "latitude": 38.754148518090481
+      }
+    },
+    {
+      "people_id": 147,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58088856737808,
+        "latitude": 38.740258307071912
+      }
+    },
+    {
+      "people_id": 148,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.62422794053766,
+        "latitude": 38.75643492677942
+      }
+    },
+    {
+      "people_id": 149,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57440917438713,
+        "latitude": 38.733899408515043
+      }
+    },
+    {
+      "people_id": 150,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58297007324022,
+        "latitude": 38.736391086833848
+      }
+    },
+    {
+      "people_id": 151,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58097297742985,
+        "latitude": 38.740593932650739
+      }
+    },
+    {
+      "people_id": 152,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57643369577016,
+        "latitude": 38.722923640342032
+      }
+    },
+    {
+      "people_id": 153,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58749130315145,
+        "latitude": 38.720972933612423
+      }
+    },
+    {
+      "people_id": 154,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60310327662329,
+        "latitude": 38.7536343758235
+      }
+    },
+    {
+      "people_id": 155,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61921386195419,
+        "latitude": 38.721407747099569
+      }
+    },
+    {
+      "people_id": 156,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61083769174581,
+        "latitude": 38.7479752187562
+      }
+    },
+    {
+      "people_id": 157,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.62506308853067,
+        "latitude": 38.723737093776776
+      }
+    },
+    {
+      "people_id": 158,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61987053697295,
+        "latitude": 38.754259870786015
+      }
+    },
+    {
+      "people_id": 159,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58228996579308,
+        "latitude": 38.723208392105974
+      }
+    },
+    {
+      "people_id": 160,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60500523447601,
+        "latitude": 38.754265239233064
+      }
+    },
+    {
+      "people_id": 161,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62406704897171,
+        "latitude": 38.717675381475196
+      }
+    },
+    {
+      "people_id": 162,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61140977368413,
+        "latitude": 38.71834859943543
+      }
+    },
+    {
+      "people_id": 163,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.634514731668,
+        "latitude": 38.72177314139843
+      }
+    },
+    {
+      "people_id": 164,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60394122550943,
+        "latitude": 38.706025997404261
+      }
+    },
+    {
+      "people_id": 165,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60805486873004,
+        "latitude": 38.754552170837
+      }
+    },
+    {
+      "people_id": 166,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58794792244899,
+        "latitude": 38.708632440995792
+      }
+    },
+    {
+      "people_id": 167,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61586657600495,
+        "latitude": 38.721989651273852
+      }
+    },
+    {
+      "people_id": 168,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61882775084423,
+        "latitude": 38.752644597614648
+      }
+    },
+    {
+      "people_id": 169,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62732204745392,
+        "latitude": 38.748820090236912
+      }
+    },
+    {
+      "people_id": 170,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59813030439395,
+        "latitude": 38.721568341232981
+      }
+    },
+    {
+      "people_id": 171,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60654720518218,
+        "latitude": 38.735725639262412
+      }
+    },
+    {
+      "people_id": 172,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60026174404285,
+        "latitude": 38.7443938752041
+      }
+    },
+    {
+      "people_id": 173,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61652427489705,
+        "latitude": 38.7390967524269
+      }
+    },
+    {
+      "people_id": 174,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59758326175633,
+        "latitude": 38.707050637208873
+      }
+    },
+    {
+      "people_id": 175,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57945064033807,
+        "latitude": 38.710506497065822
+      }
+    },
+    {
+      "people_id": 176,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59884786924015,
+        "latitude": 38.740706148966069
+      }
+    },
+    {
+      "people_id": 177,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60344841315293,
+        "latitude": 38.752481041958482
+      }
+    },
+    {
+      "people_id": 178,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.6199920696357,
+        "latitude": 38.731931820922966
+      }
+    },
+    {
+      "people_id": 179,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58052467739572,
+        "latitude": 38.745738003232226
+      }
+    },
+    {
+      "people_id": 180,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59973471327264,
+        "latitude": 38.710867402743318
+      }
+    },
+    {
+      "people_id": 181,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58820702734617,
+        "latitude": 38.709414460755795
+      }
+    },
+    {
+      "people_id": 182,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63072550701614,
+        "latitude": 38.753628084442788
+      }
+    },
+    {
+      "people_id": 183,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61024040315918,
+        "latitude": 38.753121889875992
+      }
+    },
+    {
+      "people_id": 184,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.6334098885457,
+        "latitude": 38.746921760748336
+      }
+    },
+    {
+      "people_id": 185,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61301894927384,
+        "latitude": 38.753233592714345
+      }
+    },
+    {
+      "people_id": 186,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58544160597775,
+        "latitude": 38.745392436851077
+      }
+    },
+    {
+      "people_id": 187,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63306710755137,
+        "latitude": 38.750604602723456
+      }
+    },
+    {
+      "people_id": 188,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60472498678985,
+        "latitude": 38.713551684837981
+      }
+    },
+    {
+      "people_id": 189,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62951726605945,
+        "latitude": 38.738070854901252
+      }
+    },
+    {
+      "people_id": 190,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59063024607215,
+        "latitude": 38.718529340640131
+      }
+    },
+    {
+      "people_id": 191,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60847795240714,
+        "latitude": 38.760288259955978
+      }
+    },
+    {
+      "people_id": 192,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.6099459255506,
+        "latitude": 38.710185038953547
+      }
+    },
+    {
+      "people_id": 193,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.56748686813722,
+        "latitude": 38.728151257646239
+      }
+    },
+    {
+      "people_id": 194,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.62623389222264,
+        "latitude": 38.748899646106409
+      }
+    },
+    {
+      "people_id": 195,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59046563083965,
+        "latitude": 38.749910183647039
+      }
+    },
+    {
+      "people_id": 196,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57528195127786,
+        "latitude": 38.726557413383922
+      }
+    },
+    {
+      "people_id": 197,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.62986756787693,
+        "latitude": 38.728259139442457
+      }
+    },
+    {
+      "people_id": 198,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59869740844108,
+        "latitude": 38.749489039453451
+      }
+    },
+    {
+      "people_id": 199,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58202426712589,
+        "latitude": 38.742038849265668
+      }
+    },
+    {
+      "people_id": 200,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60761314835929,
+        "latitude": 38.734153963306383
+      }
+    },
+    {
+      "people_id": 201,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60376885386081,
+        "latitude": 38.738779637583917
+      }
+    },
+    {
+      "people_id": 202,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59315214921186,
+        "latitude": 38.755535066487774
+      }
+    },
+    {
+      "people_id": 203,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60458035352946,
+        "latitude": 38.745248036615223
+      }
+    },
+    {
+      "people_id": 204,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57291295191061,
+        "latitude": 38.749091931982164
+      }
+    },
+    {
+      "people_id": 205,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58407789849953,
+        "latitude": 38.725844151115624
+      }
+    },
+    {
+      "people_id": 206,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60073071025894,
+        "latitude": 38.720409179035869
+      }
+    },
+    {
+      "people_id": 207,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60446766749736,
+        "latitude": 38.736271204623812
+      }
+    },
+    {
+      "people_id": 208,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.63392577491084,
+        "latitude": 38.738746274277005
+      }
+    },
+    {
+      "people_id": 209,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57382964809972,
+        "latitude": 38.718466220796117
+      }
+    },
+    {
+      "people_id": 210,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58086854758876,
+        "latitude": 38.74196211562424
+      }
+    },
+    {
+      "people_id": 211,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60438168771962,
+        "latitude": 38.727752825767929
+      }
+    },
+    {
+      "people_id": 212,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60385801844603,
+        "latitude": 38.717594756711343
+      }
+    },
+    {
+      "people_id": 213,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.5869624751338,
+        "latitude": 38.715266209281062
+      }
+    },
+    {
+      "people_id": 214,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61212373092677,
+        "latitude": 38.7271328335542
+      }
+    },
+    {
+      "people_id": 215,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.63160352010148,
+        "latitude": 38.749522672587588
+      }
+    },
+    {
+      "people_id": 216,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.63219627678572,
+        "latitude": 38.722126322644691
+      }
+    },
+    {
+      "people_id": 217,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57829408980577,
+        "latitude": 38.736608453895457
+      }
+    },
+    {
+      "people_id": 218,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61802365508964,
+        "latitude": 38.724091712215092
+      }
+    },
+    {
+      "people_id": 219,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60694127083704,
+        "latitude": 38.755804079832323
+      }
+    },
+    {
+      "people_id": 220,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62023429472447,
+        "latitude": 38.747631183082184
+      }
+    },
+    {
+      "people_id": 221,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62018780673408,
+        "latitude": 38.734153088370348
+      }
+    },
+    {
+      "people_id": 222,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57380484844657,
+        "latitude": 38.7394655792965
+      }
+    },
+    {
+      "people_id": 223,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58381589329456,
+        "latitude": 38.75006711690191
+      }
+    },
+    {
+      "people_id": 224,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59202255970034,
+        "latitude": 38.754443829608292
+      }
+    },
+    {
+      "people_id": 225,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60958196138763,
+        "latitude": 38.742487437119884
+      }
+    },
+    {
+      "people_id": 226,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59853968141084,
+        "latitude": 38.738491336083015
+      }
+    },
+    {
+      "people_id": 227,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59055757465427,
+        "latitude": 38.738298469887461
+      }
+    },
+    {
+      "people_id": 228,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60581111649806,
+        "latitude": 38.74339060810923
+      }
+    },
+    {
+      "people_id": 229,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58377925392399,
+        "latitude": 38.727263411060008
+      }
+    },
+    {
+      "people_id": 230,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.5940638265521,
+        "latitude": 38.748547660263441
+      }
+    },
+    {
+      "people_id": 231,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57480806719575,
+        "latitude": 38.743203379745225
+      }
+    },
+    {
+      "people_id": 232,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.5863268126888,
+        "latitude": 38.71825724967794
+      }
+    },
+    {
+      "people_id": 233,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58566322296944,
+        "latitude": 38.739636955374124
+      }
+    },
+    {
+      "people_id": 234,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62935970919987,
+        "latitude": 38.733065227236345
+      }
+    },
+    {
+      "people_id": 235,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58886427708867,
+        "latitude": 38.730343913068538
+      }
+    },
+    {
+      "people_id": 236,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58110141541127,
+        "latitude": 38.717816894274762
+      }
+    },
+    {
+      "people_id": 237,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57379893744151,
+        "latitude": 38.747895593408359
+      }
+    },
+    {
+      "people_id": 238,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.5899220659696,
+        "latitude": 38.744985680106154
+      }
+    },
+    {
+      "people_id": 239,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59747513031839,
+        "latitude": 38.723848310512089
+      }
+    },
+    {
+      "people_id": 240,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62588080365035,
+        "latitude": 38.73755761142526
+      }
+    },
+    {
+      "people_id": 241,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.63565567511138,
+        "latitude": 38.7395416357853
+      }
+    },
+    {
+      "people_id": 242,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58464697717314,
+        "latitude": 38.741150390249295
+      }
+    },
+    {
+      "people_id": 243,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60086947298291,
+        "latitude": 38.755073787828053
+      }
+    },
+    {
+      "people_id": 244,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60837206160933,
+        "latitude": 38.753703819051985
+      }
+    },
+    {
+      "people_id": 245,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59141570360214,
+        "latitude": 38.708442550872192
+      }
+    },
+    {
+      "people_id": 246,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59524872170864,
+        "latitude": 38.763010741927118
+      }
+    },
+    {
+      "people_id": 247,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60893959302959,
+        "latitude": 38.719920889864724
+      }
+    },
+    {
+      "people_id": 248,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.5990327352164,
+        "latitude": 38.74688595873404
+      }
+    },
+    {
+      "people_id": 249,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60531434809495,
+        "latitude": 38.748121142255208
+      }
+    },
+    {
+      "people_id": 250,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57364756940957,
+        "latitude": 38.731600556047148
+      }
+    },
+    {
+      "people_id": 251,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61679896274553,
+        "latitude": 38.750061384514773
+      }
+    },
+    {
+      "people_id": 252,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57351645242773,
+        "latitude": 38.75287076516166
+      }
+    },
+    {
+      "people_id": 253,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61288138237407,
+        "latitude": 38.71606834919713
+      }
+    },
+    {
+      "people_id": 254,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57138241305003,
+        "latitude": 38.734384401360188
+      }
+    },
+    {
+      "people_id": 255,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.63126861511148,
+        "latitude": 38.752737226409522
+      }
+    },
+    {
+      "people_id": 256,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57885048676278,
+        "latitude": 38.736468047896622
+      }
+    },
+    {
+      "people_id": 257,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58773454127794,
+        "latitude": 38.758417263061112
+      }
+    },
+    {
+      "people_id": 258,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.56702854557238,
+        "latitude": 38.730557602078214
+      }
+    },
+    {
+      "people_id": 259,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.63811047130466,
+        "latitude": 38.738139906098951
+      }
+    },
+    {
+      "people_id": 260,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58334863734315,
+        "latitude": 38.719106696106614
+      }
+    },
+    {
+      "people_id": 261,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60431397877875,
+        "latitude": 38.723061830472915
+      }
+    },
+    {
+      "people_id": 262,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62712922723689,
+        "latitude": 38.7284431988455
+      }
+    },
+    {
+      "people_id": 263,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60975378527665,
+        "latitude": 38.743977690644563
+      }
+    },
+    {
+      "people_id": 264,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.56705075414024,
+        "latitude": 38.740291343020438
+      }
+    },
+    {
+      "people_id": 265,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57406018224434,
+        "latitude": 38.73706328073424
+      }
+    },
+    {
+      "people_id": 266,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62317754607693,
+        "latitude": 38.71485510536418
+      }
+    },
+    {
+      "people_id": 267,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59087020029622,
+        "latitude": 38.757642312082872
+      }
+    },
+    {
+      "people_id": 268,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58135841446388,
+        "latitude": 38.73645819897726
+      }
+    },
+    {
+      "people_id": 269,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57669399857609,
+        "latitude": 38.734652796307863
+      }
+    },
+    {
+      "people_id": 270,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59285610578357,
+        "latitude": 38.746254894592973
+      }
+    },
+    {
+      "people_id": 271,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61535401280355,
+        "latitude": 38.729810433436171
+      }
+    },
+    {
+      "people_id": 272,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60912903074482,
+        "latitude": 38.749179633229978
+      }
+    },
+    {
+      "people_id": 273,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59222508556046,
+        "latitude": 38.761052702162431
+      }
+    },
+    {
+      "people_id": 274,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61338036198951,
+        "latitude": 38.717223364070335
+      }
+    },
+    {
+      "people_id": 275,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60161400823404,
+        "latitude": 38.754814996754341
+      }
+    },
+    {
+      "people_id": 276,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.6000489541138,
+        "latitude": 38.737407647704238
+      }
+    },
+    {
+      "people_id": 277,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60137329244101,
+        "latitude": 38.751072677252431
+      }
+    },
+    {
+      "people_id": 278,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62949865237555,
+        "latitude": 38.752392863427282
+      }
+    },
+    {
+      "people_id": 279,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.56659583321047,
+        "latitude": 38.736896393111053
+      }
+    },
+    {
+      "people_id": 280,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.63087745918567,
+        "latitude": 38.738669889616041
+      }
+    },
+    {
+      "people_id": 281,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.603301368708,
+        "latitude": 38.721076271455345
+      }
+    },
+    {
+      "people_id": 282,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62135203215909,
+        "latitude": 38.709245277781221
+      }
+    },
+    {
+      "people_id": 283,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60600780779737,
+        "latitude": 38.727722486086577
+      }
+    },
+    {
+      "people_id": 284,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57103671684034,
+        "latitude": 38.718464494103131
+      }
+    },
+    {
+      "people_id": 285,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.6178843147266,
+        "latitude": 38.738349331838513
+      }
+    },
+    {
+      "people_id": 286,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60529076443876,
+        "latitude": 38.705879619494048
+      }
+    },
+    {
+      "people_id": 287,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57861880465695,
+        "latitude": 38.728878490940453
+      }
+    },
+    {
+      "people_id": 288,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60070333442732,
+        "latitude": 38.712427745932139
+      }
+    },
+    {
+      "people_id": 289,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.5860973008777,
+        "latitude": 38.746109123649859
+      }
+    },
+    {
+      "people_id": 290,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60239988337595,
+        "latitude": 38.748311247519389
+      }
+    },
+    {
+      "people_id": 291,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.6033791058602,
+        "latitude": 38.72380879330867
+      }
+    },
+    {
+      "people_id": 292,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59627662941161,
+        "latitude": 38.705010541876561
+      }
+    },
+    {
+      "people_id": 293,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61114924662105,
+        "latitude": 38.709059941529461
+      }
+    },
+    {
+      "people_id": 294,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.63643459765643,
+        "latitude": 38.72356319097932
+      }
+    },
+    {
+      "people_id": 295,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.62004428594506,
+        "latitude": 38.73902882621249
+      }
+    },
+    {
+      "people_id": 296,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.56524077103172,
+        "latitude": 38.736549548520053
+      }
+    },
+    {
+      "people_id": 297,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.5737114132866,
+        "latitude": 38.719928296873412
+      }
+    },
+    {
+      "people_id": 298,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.6023985636653,
+        "latitude": 38.728567532777973
+      }
+    },
+    {
+      "people_id": 299,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61188468877275,
+        "latitude": 38.7192953686482
+      }
+    },
+    {
+      "people_id": 300,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.56880225702095,
+        "latitude": 38.74456691374985
+      }
+    },
+    {
+      "people_id": 301,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60763269285428,
+        "latitude": 38.741056800448227
+      }
+    },
+    {
+      "people_id": 302,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57393407119635,
+        "latitude": 38.752061117397865
+      }
+    },
+    {
+      "people_id": 303,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60286524063076,
+        "latitude": 38.741504591722915
+      }
+    },
+    {
+      "people_id": 304,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58028345430428,
+        "latitude": 38.732320901229969
+      }
+    },
+    {
+      "people_id": 305,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59998430087786,
+        "latitude": 38.734218635981989
+      }
+    },
+    {
+      "people_id": 306,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57215157290941,
+        "latitude": 38.734589148752306
+      }
+    },
+    {
+      "people_id": 307,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57933724172975,
+        "latitude": 38.72536567193395
+      }
+    },
+    {
+      "people_id": 308,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60235649025147,
+        "latitude": 38.731895016565211
+      }
+    },
+    {
+      "people_id": 309,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61214583395576,
+        "latitude": 38.733406493235734
+      }
+    },
+    {
+      "people_id": 310,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58362459927334,
+        "latitude": 38.757125503433663
+      }
+    },
+    {
+      "people_id": 311,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62059349357664,
+        "latitude": 38.74771801126019
+      }
+    },
+    {
+      "people_id": 312,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61547457622883,
+        "latitude": 38.739386366259708
+      }
+    },
+    {
+      "people_id": 313,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61522056140883,
+        "latitude": 38.7080031348888
+      }
+    },
+    {
+      "people_id": 314,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62441182956654,
+        "latitude": 38.740792761816792
+      }
+    },
+    {
+      "people_id": 315,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.56969636302854,
+        "latitude": 38.738954407923693
+      }
+    },
+    {
+      "people_id": 316,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57875039069486,
+        "latitude": 38.747153357751124
+      }
+    },
+    {
+      "people_id": 317,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58641880756096,
+        "latitude": 38.717703308623868
+      }
+    },
+    {
+      "people_id": 318,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59920147346205,
+        "latitude": 38.748698721566079
+      }
+    },
+    {
+      "people_id": 319,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58430711562409,
+        "latitude": 38.751207891122576
+      }
+    },
+    {
+      "people_id": 320,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58745722244345,
+        "latitude": 38.760475026204311
+      }
+    },
+    {
+      "people_id": 321,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.56774453916275,
+        "latitude": 38.732709294857393
+      }
+    },
+    {
+      "people_id": 322,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57395909526022,
+        "latitude": 38.713993557266512
+      }
+    },
+    {
+      "people_id": 323,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61275842801892,
+        "latitude": 38.705918811121656
+      }
+    },
+    {
+      "people_id": 324,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61499420625772,
+        "latitude": 38.743755823256336
+      }
+    },
+    {
+      "people_id": 325,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58941392066743,
+        "latitude": 38.740882882162012
+      }
+    },
+    {
+      "people_id": 326,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62899676059857,
+        "latitude": 38.748213731370605
+      }
+    },
+    {
+      "people_id": 327,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59918902845311,
+        "latitude": 38.763004686479512
+      }
+    },
+    {
+      "people_id": 328,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61988298853515,
+        "latitude": 38.7174112370825
+      }
+    },
+    {
+      "people_id": 329,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.63044184140381,
+        "latitude": 38.727242760467313
+      }
+    },
+    {
+      "people_id": 330,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59015513701921,
+        "latitude": 38.7450240660201
+      }
+    },
+    {
+      "people_id": 331,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60059713107395,
+        "latitude": 38.736767112825859
+      }
+    },
+    {
+      "people_id": 332,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61312102710464,
+        "latitude": 38.75996039966428
+      }
+    },
+    {
+      "people_id": 333,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.6312770565533,
+        "latitude": 38.732074401576071
+      }
+    },
+    {
+      "people_id": 334,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59981648301316,
+        "latitude": 38.74711983732832
+      }
+    },
+    {
+      "people_id": 335,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57747316703012,
+        "latitude": 38.740179594300074
+      }
+    },
+    {
+      "people_id": 336,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59971067436187,
+        "latitude": 38.731693443624074
+      }
+    },
+    {
+      "people_id": 337,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63165512871964,
+        "latitude": 38.7162642424429
+      }
+    },
+    {
+      "people_id": 338,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59958665898159,
+        "latitude": 38.721987141053667
+      }
+    },
+    {
+      "people_id": 339,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59036237694261,
+        "latitude": 38.737746453332782
+      }
+    },
+    {
+      "people_id": 340,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62445100887444,
+        "latitude": 38.757787730572609
+      }
+    },
+    {
+      "people_id": 341,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.598759293447,
+        "latitude": 38.760273197982343
+      }
+    },
+    {
+      "people_id": 342,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.62886880019408,
+        "latitude": 38.713842536031848
+      }
+    },
+    {
+      "people_id": 343,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61286578351324,
+        "latitude": 38.731634104087519
+      }
+    },
+    {
+      "people_id": 344,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58604128364125,
+        "latitude": 38.7555242314435
+      }
+    },
+    {
+      "people_id": 345,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58173756559468,
+        "latitude": 38.744767634533083
+      }
+    },
+    {
+      "people_id": 346,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57070396760517,
+        "latitude": 38.717502941057795
+      }
+    },
+    {
+      "people_id": 347,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58916865133534,
+        "latitude": 38.71972108295919
+      }
+    },
+    {
+      "people_id": 348,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61534526849037,
+        "latitude": 38.728040633820434
+      }
+    },
+    {
+      "people_id": 349,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60230946860217,
+        "latitude": 38.755646706730047
+      }
+    },
+    {
+      "people_id": 350,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.62974110071065,
+        "latitude": 38.7228793039337
+      }
+    },
+    {
+      "people_id": 351,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58531176850757,
+        "latitude": 38.707935414083465
+      }
+    },
+    {
+      "people_id": 352,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57826081585493,
+        "latitude": 38.749313863151457
+      }
+    },
+    {
+      "people_id": 353,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.56852049285283,
+        "latitude": 38.732569873603694
+      }
+    },
+    {
+      "people_id": 354,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.63720355054652,
+        "latitude": 38.721472511897453
+      }
+    },
+    {
+      "people_id": 355,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61853431566605,
+        "latitude": 38.711426842237259
+      }
+    },
+    {
+      "people_id": 356,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59135571566578,
+        "latitude": 38.716747950807445
+      }
+    },
+    {
+      "people_id": 357,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61437409626681,
+        "latitude": 38.752738133853377
+      }
+    },
+    {
+      "people_id": 358,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59371866951285,
+        "latitude": 38.755622324123891
+      }
+    },
+    {
+      "people_id": 359,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58127463586621,
+        "latitude": 38.753538715741776
+      }
+    },
+    {
+      "people_id": 360,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58650021719535,
+        "latitude": 38.752540957381527
+      }
+    },
+    {
+      "people_id": 361,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61313638782262,
+        "latitude": 38.70637368070286
+      }
+    },
+    {
+      "people_id": 362,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61592914568105,
+        "latitude": 38.707368057827466
+      }
+    },
+    {
+      "people_id": 363,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.56560782074199,
+        "latitude": 38.733138809364931
+      }
+    },
+    {
+      "people_id": 364,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.603384989515,
+        "latitude": 38.704459838238044
+      }
+    },
+    {
+      "people_id": 365,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.6275462442848,
+        "latitude": 38.711877711567084
+      }
+    },
+    {
+      "people_id": 366,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57332373862519,
+        "latitude": 38.728051882979187
+      }
+    },
+    {
+      "people_id": 367,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61480177285615,
+        "latitude": 38.752554939793285
+      }
+    },
+    {
+      "people_id": 368,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60686852886448,
+        "latitude": 38.723933713799944
+      }
+    },
+    {
+      "people_id": 369,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60948148226095,
+        "latitude": 38.7168898159223
+      }
+    },
+    {
+      "people_id": 370,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60268496477602,
+        "latitude": 38.730691956249487
+      }
+    },
+    {
+      "people_id": 371,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59559664375438,
+        "latitude": 38.742743115643613
+      }
+    },
+    {
+      "people_id": 372,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.5717960892395,
+        "latitude": 38.731469624185046
+      }
+    },
+    {
+      "people_id": 373,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58243656322394,
+        "latitude": 38.70821569579843
+      }
+    },
+    {
+      "people_id": 374,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58458726939409,
+        "latitude": 38.720767055684846
+      }
+    },
+    {
+      "people_id": 375,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61191031425,
+        "latitude": 38.757181943071295
+      }
+    },
+    {
+      "people_id": 376,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61175964179921,
+        "latitude": 38.761069130521641
+      }
+    },
+    {
+      "people_id": 377,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59345349615296,
+        "latitude": 38.733434092548094
+      }
+    },
+    {
+      "people_id": 378,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57212005684724,
+        "latitude": 38.7207840033975
+      }
+    },
+    {
+      "people_id": 379,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57081515472994,
+        "latitude": 38.742979701285648
+      }
+    },
+    {
+      "people_id": 380,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58130904647111,
+        "latitude": 38.739176093964517
+      }
+    },
+    {
+      "people_id": 381,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57216639411737,
+        "latitude": 38.747678176956008
+      }
+    },
+    {
+      "people_id": 382,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57517011384843,
+        "latitude": 38.754376784295744
+      }
+    },
+    {
+      "people_id": 383,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60792985725142,
+        "latitude": 38.762451897703926
+      }
+    },
+    {
+      "people_id": 384,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57850475928949,
+        "latitude": 38.731967617214472
+      }
+    },
+    {
+      "people_id": 385,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60470204332015,
+        "latitude": 38.730842509428726
+      }
+    },
+    {
+      "people_id": 386,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61710922953951,
+        "latitude": 38.731296091764086
+      }
+    },
+    {
+      "people_id": 387,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62495513398294,
+        "latitude": 38.730493570234934
+      }
+    },
+    {
+      "people_id": 388,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60037978444092,
+        "latitude": 38.762341209722635
+      }
+    },
+    {
+      "people_id": 389,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62604755307133,
+        "latitude": 38.737500430958406
+      }
+    },
+    {
+      "people_id": 390,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62223860188226,
+        "latitude": 38.744032844519865
+      }
+    },
+    {
+      "people_id": 391,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59429568990622,
+        "latitude": 38.727963929868963
+      }
+    },
+    {
+      "people_id": 392,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59634116270151,
+        "latitude": 38.752322416906921
+      }
+    },
+    {
+      "people_id": 393,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61693273217755,
+        "latitude": 38.716209305440451
+      }
+    },
+    {
+      "people_id": 394,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60683194126831,
+        "latitude": 38.755776072543192
+      }
+    },
+    {
+      "people_id": 395,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57616238730267,
+        "latitude": 38.735087717987135
+      }
+    },
+    {
+      "people_id": 396,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61900786584117,
+        "latitude": 38.707059852663704
+      }
+    },
+    {
+      "people_id": 397,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58692502174831,
+        "latitude": 38.752353193304835
+      }
+    },
+    {
+      "people_id": 398,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59141344335299,
+        "latitude": 38.730557912161281
+      }
+    },
+    {
+      "people_id": 399,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59358538135756,
+        "latitude": 38.7391588275236
+      }
+    },
+    {
+      "people_id": 400,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57772770466482,
+        "latitude": 38.729906110229088
+      }
+    },
+    {
+      "people_id": 401,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58752725857052,
+        "latitude": 38.748807735407041
+      }
+    },
+    {
+      "people_id": 402,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.5831112801685,
+        "latitude": 38.714838133195215
+      }
+    },
+    {
+      "people_id": 403,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61353816214154,
+        "latitude": 38.733083623548524
+      }
+    },
+    {
+      "people_id": 404,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59150146321863,
+        "latitude": 38.71731005692574
+      }
+    },
+    {
+      "people_id": 405,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59407643060332,
+        "latitude": 38.749913893603136
+      }
+    },
+    {
+      "people_id": 406,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.62053791151641,
+        "latitude": 38.730601333537827
+      }
+    },
+    {
+      "people_id": 407,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57128315114856,
+        "latitude": 38.735781589541084
+      }
+    },
+    {
+      "people_id": 408,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57625908977779,
+        "latitude": 38.751714641424321
+      }
+    },
+    {
+      "people_id": 409,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60361799542476,
+        "latitude": 38.732185894745285
+      }
+    },
+    {
+      "people_id": 410,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57509119059529,
+        "latitude": 38.732659137704623
+      }
+    },
+    {
+      "people_id": 411,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59704743598743,
+        "latitude": 38.715950118351159
+      }
+    },
+    {
+      "people_id": 412,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60276818584792,
+        "latitude": 38.706496619336875
+      }
+    },
+    {
+      "people_id": 413,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.63215220869866,
+        "latitude": 38.72924244228475
+      }
+    },
+    {
+      "people_id": 414,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.6239380250029,
+        "latitude": 38.740862966997511
+      }
+    },
+    {
+      "people_id": 415,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59980295315864,
+        "latitude": 38.744858050577406
+      }
+    },
+    {
+      "people_id": 416,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.5715082119392,
+        "latitude": 38.721814390046418
+      }
+    },
+    {
+      "people_id": 417,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57063227351877,
+        "latitude": 38.749111492294041
+      }
+    },
+    {
+      "people_id": 418,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.60664986266652,
+        "latitude": 38.708984384347005
+      }
+    },
+    {
+      "people_id": 419,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.57633528131963,
+        "latitude": 38.7543862081311
+      }
+    },
+    {
+      "people_id": 420,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62763914594078,
+        "latitude": 38.733165548613826
+      }
+    },
+    {
+      "people_id": 421,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59921706569629,
+        "latitude": 38.721122770571455
+      }
+    },
+    {
+      "people_id": 422,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62331942940196,
+        "latitude": 38.727865235257781
+      }
+    },
+    {
+      "people_id": 423,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57091620034191,
+        "latitude": 38.7342282576228
+      }
+    },
+    {
+      "people_id": 424,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.63515718154237,
+        "latitude": 38.742110875383858
+      }
+    },
+    {
+      "people_id": 425,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59152318243923,
+        "latitude": 38.71057056391264
+      }
+    },
+    {
+      "people_id": 426,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59111555030398,
+        "latitude": 38.756960975234577
+      }
+    },
+    {
+      "people_id": 427,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59351338770179,
+        "latitude": 38.735181487752975
+      }
+    },
+    {
+      "people_id": 428,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.56649162677741,
+        "latitude": 38.724363014617467
+      }
+    },
+    {
+      "people_id": 429,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.57301766679743,
+        "latitude": 38.735853976640726
+      }
+    },
+    {
+      "people_id": 430,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58005761660418,
+        "latitude": 38.751219468202429
+      }
+    },
+    {
+      "people_id": 431,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62671901229372,
+        "latitude": 38.717564681562983
+      }
+    },
+    {
+      "people_id": 432,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61570496652618,
+        "latitude": 38.732418939415865
+      }
+    },
+    {
+      "people_id": 433,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59091257774692,
+        "latitude": 38.712747670645726
+      }
+    },
+    {
+      "people_id": 434,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62891529284099,
+        "latitude": 38.719730500974606
+      }
+    },
+    {
+      "people_id": 435,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60420904526461,
+        "latitude": 38.739165484682054
+      }
+    },
+    {
+      "people_id": 436,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.60305728123534,
+        "latitude": 38.735684172707316
+      }
+    },
+    {
+      "people_id": 437,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62154853365418,
+        "latitude": 38.722094757759095
+      }
+    },
+    {
+      "people_id": 438,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62670759121525,
+        "latitude": 38.728285762506708
+      }
+    },
+    {
+      "people_id": 439,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61751898466383,
+        "latitude": 38.7428589586803
+      }
+    },
+    {
+      "people_id": 440,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63441812769463,
+        "latitude": 38.745038679567315
+      }
+    },
+    {
+      "people_id": 441,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59750460123119,
+        "latitude": 38.762018975813845
+      }
+    },
+    {
+      "people_id": 442,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58645785861357,
+        "latitude": 38.70842127577378
+      }
+    },
+    {
+      "people_id": 443,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.6135670368004,
+        "latitude": 38.728655957088655
+      }
+    },
+    {
+      "people_id": 444,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59980311578495,
+        "latitude": 38.746252196648364
+      }
+    },
+    {
+      "people_id": 445,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.62225926664524,
+        "latitude": 38.721793284020372
+      }
+    },
+    {
+      "people_id": 446,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57791092315225,
+        "latitude": 38.74908456893877
+      }
+    },
+    {
+      "people_id": 447,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61123885764263,
+        "latitude": 38.736190168424677
+      }
+    },
+    {
+      "people_id": 448,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60894271153362,
+        "latitude": 38.745940067070805
+      }
+    },
+    {
+      "people_id": 449,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57187594064726,
+        "latitude": 38.741041419126674
+      }
+    },
+    {
+      "people_id": 450,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57672257767248,
+        "latitude": 38.752751202337087
+      }
+    },
+    {
+      "people_id": 451,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.57781028902245,
+        "latitude": 38.727841262619293
+      }
+    },
+    {
+      "people_id": 452,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.58867966500534,
+        "latitude": 38.706980770212681
+      }
+    },
+    {
+      "people_id": 453,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60974346555329,
+        "latitude": 38.7279834977948
+      }
+    },
+    {
+      "people_id": 454,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60287648726931,
+        "latitude": 38.7336108661073
+      }
+    },
+    {
+      "people_id": 455,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.63433495987782,
+        "latitude": 38.73756966351867
+      }
+    },
+    {
+      "people_id": 456,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.63291490011402,
+        "latitude": 38.735679542568633
+      }
+    },
+    {
+      "people_id": 457,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.61548671933392,
+        "latitude": 38.72451681602805
+      }
+    },
+    {
+      "people_id": 458,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60387913532604,
+        "latitude": 38.744795658051267
+      }
+    },
+    {
+      "people_id": 459,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.59722289809456,
+        "latitude": 38.717863343392025
+      }
+    },
+    {
+      "people_id": 460,
+      "people_type": 1,
+      "people_point": {
+        "longitude": 105.60640829662319,
+        "latitude": 38.726362151206395
+      }
+    },
+    {
+      "people_id": 461,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59345277348744,
+        "latitude": 38.705688500263896
+      }
+    },
+    {
+      "people_id": 462,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62963247318721,
+        "latitude": 38.752360289569687
+      }
+    },
+    {
+      "people_id": 463,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61713614665732,
+        "latitude": 38.734026191080908
+      }
+    },
+    {
+      "people_id": 464,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.625087934666,
+        "latitude": 38.731603749213463
+      }
+    },
+    {
+      "people_id": 465,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.61546739703208,
+        "latitude": 38.74845852459292
+      }
+    },
+    {
+      "people_id": 466,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58590178341389,
+        "latitude": 38.718718474869924
+      }
+    },
+    {
+      "people_id": 467,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.59671649531754,
+        "latitude": 38.760260224886778
+      }
+    },
+    {
+      "people_id": 468,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58951755830476,
+        "latitude": 38.7333025199277
+      }
+    },
+    {
+      "people_id": 469,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.58401689838978,
+        "latitude": 38.732500681181605
+      }
+    },
+    {
+      "people_id": 470,
+      "people_type": 2,
+      "people_point": {
+        "longitude": 105.62665233593108,
+        "latitude": 38.741109715134478
+      }
+    },
+    {
+      "people_id": 471,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60632347934765,
+        "latitude": 38.752447735650044
+      }
+    },
+    {
+      "people_id": 472,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58611414382298,
+        "latitude": 38.746214002003128
+      }
+    },
+    {
+      "people_id": 473,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62243978624319,
+        "latitude": 38.739262107505134
+      }
+    },
+    {
+      "people_id": 474,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62169766572369,
+        "latitude": 38.744250884325879
+      }
+    },
+    {
+      "people_id": 475,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.59489726580634,
+        "latitude": 38.739649801855933
+      }
+    },
+    {
+      "people_id": 476,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.60200713115968,
+        "latitude": 38.757100966470929
+      }
+    },
+    {
+      "people_id": 477,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.58469664697942,
+        "latitude": 38.724243227659024
+      }
+    },
+    {
+      "people_id": 478,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.61337817230769,
+        "latitude": 38.724313839472813
+      }
+    },
+    {
+      "people_id": 479,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.62933117954412,
+        "latitude": 38.741639419270584
+      }
+    },
+    {
+      "people_id": 480,
+      "people_type": 3,
+      "people_point": {
+        "longitude": 105.5901189647534,
+        "latitude": 38.743144263863172
+      }
+    },
+    {
+      "people_id": 481,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59848300716359,
+        "latitude": 38.7574013903561
+      }
+    },
+    {
+      "people_id": 482,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62679340768746,
+        "latitude": 38.748412857423176
+      }
+    },
+    {
+      "people_id": 483,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.59658295636328,
+        "latitude": 38.7184755152919
+      }
+    },
+    {
+      "people_id": 484,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.61453302155427,
+        "latitude": 38.74468290975669
+      }
+    },
+    {
+      "people_id": 485,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63990920792351,
+        "latitude": 38.734937492841837
+      }
+    },
+    {
+      "people_id": 486,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.62959082746443,
+        "latitude": 38.73155621194848
+      }
+    },
+    {
+      "people_id": 487,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.63094302029002,
+        "latitude": 38.728578178013159
+      }
+    },
+    {
+      "people_id": 488,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.58806532315519,
+        "latitude": 38.711024334190327
+      }
+    },
+    {
+      "people_id": 489,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.57450194367166,
+        "latitude": 38.735527393689694
+      }
+    },
+    {
+      "people_id": 490,
+      "people_type": 4,
+      "people_point": {
+        "longitude": 105.5781901264758,
+        "latitude": 38.717295474906294
+      }
+    },
+    {
+      "people_id": 491,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58002009432063,
+        "latitude": 38.744853854922269
+      }
+    },
+    {
+      "people_id": 492,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61810249131787,
+        "latitude": 38.752378279884127
+      }
+    },
+    {
+      "people_id": 493,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.57783609987804,
+        "latitude": 38.755470478034233
+      }
+    },
+    {
+      "people_id": 494,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60513502003542,
+        "latitude": 38.723971591074424
+      }
+    },
+    {
+      "people_id": 495,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59789761659977,
+        "latitude": 38.758494581641223
+      }
+    },
+    {
+      "people_id": 496,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.61142305374163,
+        "latitude": 38.708445283610658
+      }
+    },
+    {
+      "people_id": 497,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.58427391473607,
+        "latitude": 38.743213301579935
+      }
+    },
+    {
+      "people_id": 498,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.60124983687338,
+        "latitude": 38.712373410148167
+      }
+    },
+    {
+      "people_id": 499,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.63318927470617,
+        "latitude": 38.719999607633738
+      }
+    },
+    {
+      "people_id": 500,
+      "people_type": 5,
+      "people_point": {
+        "longitude": 105.59759583858298,
+        "latitude": 38.746568784340482
+      }
+    }
+  ],
+  "breaks": [
+    {
+      "osm_id": 309,
+      "break_type": 2,
+      "break_start_point": {
+        "longitude": 105.55887190394857,
+        "latitude": 38.791857900020915
+      },
+      "break_end_point": {
+        "longitude": 105.56063350394378,
+        "latitude": 38.792430999807678
+      },
+      "happend_time": 0.0,
+      "continue_time": 1500.0,
+      "break_level": 10
+    },
+    {
+      "osm_id": 496,
+      "break_type": 3,
+      "break_start_point": {
+        "longitude": 105.67248680000074,
+        "latitude": 38.797003299997037
+      },
+      "break_end_point": {
+        "longitude": 105.67238030000524,
+        "latitude": 38.79772779998153
+      },
+      "happend_time": 0.0,
+      "continue_time": 1500.0,
+      "break_level": 10
+    },
+    {
+      "osm_id": 309,
+      "break_type": 1,
+      "break_start_point": {
+        "longitude": 105.60536949979725,
+        "latitude": 38.804712299908637
+      },
+      "break_end_point": {
+        "longitude": 105.60865850012377,
+        "latitude": 38.805288700216863
+      },
+      "happend_time": 0.0,
+      "continue_time": 1500.0,
+      "break_level": 10
+    }
+  ],
+  "init_points": [
+    {
+      "longitude": 105.58996574157908,
+      "latitude": 38.716641675352875
+    },
+    {
+      "longitude": 105.57204661080252,
+      "latitude": 38.733814720394712
+    },
+    {
+      "longitude": 105.6022473896537,
+      "latitude": 38.739999843292033
+    },
+    {
+      "longitude": 105.57145389558816,
+      "latitude": 38.72631359881462
+    }
+  ],
+  "race_time": 180.0,
+  "send_id": 1
+}

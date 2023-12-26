@@ -1,0 +1,10 @@
+ip: "192.168.1.103"
+originalFile: "D:\\session\\"
+server:
+  id: 22
+  receive: 10022
+client:
+  id: 24
+  receive: 10024
+
+

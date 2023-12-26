@@ -1,0 +1,44 @@
+{
+  "start_point": {
+    "longitude": 105.66507289977227,
+    "latitude": 38.735363600475871
+  },
+  "end_point": {
+    "longitude": 105.56821478474497,
+    "latitude": 38.822161614631682
+  },
+  "breaks": [
+    {
+      "osm_id": 433,
+      "break_type": 4,
+      "break_start_point": {
+        "longitude": 105.65885550011193,
+        "latitude": 38.814453499866126
+      },
+      "break_end_point": {
+        "longitude": 105.65948320058847,
+        "latitude": 38.814236899618777
+      },
+      "happend_time": 0.0,
+      "continue_time": 3600.0,
+      "break_level": 9
+    },
+    {
+      "osm_id": 48,
+      "break_type": 2,
+      "break_start_point": {
+        "longitude": 105.58693147581143,
+        "latitude": 38.737756468968989
+      },
+      "break_end_point": {
+        "longitude": 105.59259771350422,
+        "latitude": 38.737631034027686
+      },
+      "happend_time": 0.0,
+      "continue_time": 3600.0,
+      "break_level": 10
+    }
+  ],
+  "race_time": 90.0,
+  "send_id": 4
+}
